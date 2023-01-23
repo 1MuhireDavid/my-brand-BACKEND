@@ -1,0 +1,26 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "routes.js",
+  "scripts": {
+    "start": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1MuhireDavid/BACKEND.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1MuhireDavid/BACKEND/issues"
+  },
+  "homepage": "https://github.com/1MuhireDavid/BACKEND#readme",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^6.8.4",
+    "nodemon": "^2.0.20"
+  }
+}
